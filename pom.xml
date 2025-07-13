@@ -62,6 +62,4 @@
         </repository>
     </distributionManagement>
 
-    <!-- Removed pluginRepositories — Maven Central is default -->
-
 </project>
